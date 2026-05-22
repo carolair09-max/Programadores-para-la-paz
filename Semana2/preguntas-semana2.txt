@@ -1,1 +1,9 @@
 
+preguna 1
+respuesta: B
+pregunta 2
+respuesta: B
+pregunta 3
+respuesta: C
+pregunta 4
+respuesta: B
