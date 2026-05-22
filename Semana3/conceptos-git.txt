@@ -1,1 +1,4 @@
-
+Conceptos
+Repositorio: Es un espacio donde se guardan todos los cambios realizados de un proyecto.
+Commit: es una opcion que guarda de manera fija los cambios realizados en software creando una instantánea del código en un momento determinado.
+Push: es la acción de enviar los commits realizados localmente hacia el repositorio remoto, de modo que los cambios queden disponibles para los demás integrantes del equipo o como respaldo en la nube.
