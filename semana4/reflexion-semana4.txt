@@ -1,0 +1,10 @@
+Creo firmemente que la posibilidad de construir herramientas tecnológicas propias con tecnologías abiertas como Node.js representa un acto de autonomía
+y soberanía digital para cualquier comunidad o iniciativa ciudadana. Cuando una comunidad depende exclusivamente de plataformas comerciales o soluciones externas,
+queda sujeta a las condiciones, precios y decisiones de terceros que muchas veces no conocen ni comparten sus necesidades reales. Por eso considero que aprender
+y usar herramientas de código abierto nos permite diseñar soluciones adaptadas a nuestro contexto, nuestro idioma y nuestra realidad, sin tener que encajar en
+moldes que no nos corresponden. Además, tecnologías como Node.js tienen comunidades globales enormes que comparten conocimiento de forma gratuita, lo que reduce
+las barreras de entrada y permite que personas sin grandes recursos económicos puedan desarrollar capacidades técnicas reales. Para mí, esto también fortalece
+la confianza interna del grupo, porque cuando nosotros mismos construimos y controlamos nuestra herramienta, entendemos cómo funciona, podemos corregirla, 
+mejorarla y proteger los datos de quienes participan en ella. Creo que la tecnología propia también genera identidad colectiva: la herramienta deja de ser algo
+ajeno y se convierte en algo nuestro, construido con esfuerzo compartido. En definitiva, apostar por tecnologías abiertas no es solo una decisión técnica,
+sino una decisión política y ética que pone el poder de la información y la comunicación en manos de la propia comunidad.
