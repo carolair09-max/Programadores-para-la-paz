@@ -1,0 +1,16 @@
+¿Qué hace esta ruta?
+
+Esta ruta escucha peticiones POST en la dirección /reporte
+Cuando alguien envía un mensaje, la ruta lo recibe desde el
+cuerpo de la petición (req body mensaje) y responde con un
+objeto JSON que confirma que el reporte fue recibido junto
+con el contenido del mensaje enviado.
+ 
+¿Para qué podría servir en una aplicación comunitaria?
+Podría usarse para que los miembros de una comunidad reporten
+situaciones como daños en espacios públicos, alertas de
+seguridad, problemas de servicios o cualquier novedad que
+necesite atención. Es una forma sencilla de recibir información
+desde la ciudadanía y confirmarle al usuario que su mensaje
+llegó correctamente.
+ 
