@@ -1,0 +1,9 @@
+Las APIs son, en mi opinión, uno de los puentes más poderosos que existen hoy para que una comunidad pueda compartir información de forma ordenada y confiable
+entre distintos canales y herramientas. Cuando una comunidad construye o usa una API, establece reglas claras sobre cómo se envía y recibe la información, 
+lo que evita que los datos lleguen incompletos, duplicados o en formatos imposibles de procesar. Imagino, por ejemplo, una aplicación comunitaria donde los
+vecinos puedan enviar reportes de problemas en el barrio: la API recibe ese reporte, lo organiza y lo distribuye automáticamentea quienes corresponde atenderlo,
+sin necesidad de intermediarios manuales. Esto me parece clave porque reduce los errores humanos y acelera el tiempo de respuesta ante situaciones
+urgentes como alertas de seguridad o emergencias. También valoro que las APIs permiten conectar herramientas distintas entre sí, por ejemplo,
+unir un formulario web con un sistema de notificaciones y una base de datos, todo funcionando de manera coordinada. Para comunidades con pocos recursos técnicos,
+esto significa que no necesitan construir todo desde cero, sino conectar soluciones que ya existen. En definitiva, creo que las APIs le dan a las comunidades
+la capacidad de actuar con la misma eficiencia organizativa que tienen instituciones mucho más grandes, pero desde su propia autonomía y con sus propias reglas.
