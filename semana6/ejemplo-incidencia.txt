@@ -1,0 +1,4 @@
+{
+  "tipo": "bache",
+  "descripcion": "Hay un bache grande en la calle principal"
+}

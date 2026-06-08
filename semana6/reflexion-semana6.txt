@@ -1,0 +1,6 @@
+Considero que es fundamental porque la información estructurada permite que los reportes 
+ciudadanos sean procesables y verificables, no simples quejas perdidas en un buzón.
+Cuando un ciudadano envía datos organizados con fecha, lugar, evidencia y categoría del
+problema la plataforma puede cruzarlos, priorizarlos y canalizarlos a la entidad
+correcta sin perder tiempo. Sin esa estructura, la participación ciudadana genera ruido
+en lugar de insumos útiles para la toma de decisiones.
