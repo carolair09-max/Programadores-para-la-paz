@@ -1,0 +1,19 @@
+PRUEBA DE LA RUTA POST /reportes
+Se envió una petición POST a http://localhost:3000/reportes
+con el siguiente JSON:
+{"tipo": "Infraestructura", "descripcion": "Daño en alumbrado público"}
+
+El servidor respondió con:
+{"mensaje": "Reporte registrado", "reporte": {"id": 1,
+"tipo": "Infraestructura", "descripcion": "Daño en alumbrado público"}}
+
+Esto significa que el reporte fue guardado correctamente en
+el arreglo del servidor.
+
+PRUEBA DE LA RUTA GET /reportes
+Se envió una petición GET a http://localhost:3000/reportes
+y el servidor devolvió todos los reportes registrados en
+formato JSON como un arreglo.
+
+Conclusión: La ruta POST registra nuevos reportes y la ruta
+GET permite consultarlos todos.

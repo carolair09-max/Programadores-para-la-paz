@@ -1,0 +1,7 @@
+Considero que registrar y consultar reportes en una plataforma tecnológica
+es fundamental porque convierte la memoria colectiva de una comunidad en evidencia
+organizada y trazable. Sin un sistema de registro, los problemas se repiten sin que
+nadie pueda demostrar su frecuencia o patrón, lo que facilita que las instituciones
+los ignoren. Poder consultar el historial de incidencias permite además identificar
+zonas críticas, medir si las soluciones funcionaron y sustentar exigencias concretas
+ante las autoridades con datos verificables en lugar de percepciones.
