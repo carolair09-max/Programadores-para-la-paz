@@ -1,0 +1,10 @@
+Las metodologías ágiles ayudan a organizar el trabajo porque permiten priorizar las tareas 
+y avanzar por etapas. Esto facilita que el equipo identifique qué actividades son más 
+importantes y realice mejoras de forma continua. La automatización reduce el tiempo 
+dedicado a tareas repetitivas, como el envío de notificaciones o recordatorios. Además, 
+herramientas como Telegram permiten mantener una comunicación rápida entre los integrantes 
+del equipo y la comunidad. Esto mejora la coordinación y el seguimiento de las actividades. 
+También ayuda a responder con mayor rapidez a los reportes o solicitudes. Sin embargo, 
+es importante utilizar estas herramientas de forma responsable para proteger la información 
+de las personas. De esta manera, se fortalece la participación ciudadana y se promueve un 
+trabajo más organizado, seguro y eficiente.

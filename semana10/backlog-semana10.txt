@@ -1,0 +1,15 @@
+
+Como ciudadano, quiero registrar un reporte en la plataforma para informar problemas de mi 
+comunidad y que puedan recibir seguimiento.
+
+Como administrador de la plataforma, quiero que solo los usuarios autorizados puedan acceder 
+y modificar la información para proteger los datos de la comunidad.
+
+Como integrante de la veeduría, quiero consultar el estado de las solicitudes para verificar 
+el avance de cada caso y dar seguimiento oportuno.
+
+Como coordinador del equipo, quiero recibir notificaciones automáticas sobre nuevos reportes
+para responder con mayor rapidez.
+
+Como ciudadano, quiero recibir avisos cuando mi reporte cambie de estado para conocer el 
+progreso de mi solicitud.
