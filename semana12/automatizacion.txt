@@ -1,0 +1,6 @@
+Evento: una causa alcanza su meta de apoyos
+Mensaje: "¡La petición 'Mejora del alumbrado público en el barrio X' alcanzó los 500 apoyos!
+Ya está lista para ser presentada ante la institución correspondiente."
+Información que no debe enviarse: nombres completos de los ciudadanos que apoyaron, números
+de identificación, correos electrónicos, números de teléfono, direcciones exactas de 
+residencia, o cualquier comentario personal que hayan dejado al respaldar la causa.

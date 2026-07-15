@@ -1,0 +1,5 @@
+1. Un ciudadano registra una causa
+2. La plataforma guarda la causa
+3. La comunidad apoya la causa
+4. El sistema suma y valida los apoyos
+5. Se genera y comparte el documento final

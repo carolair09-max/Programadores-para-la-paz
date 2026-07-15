@@ -1,0 +1,13 @@
+Durante el curso aprendí que la tecnología solo fortalece la participación ciudadana cuando 
+se diseña de forma simple y accesible, pensando en las necesidades reales de las personas y 
+no en la complejidad técnica del sistema. Comprendí que herramientas como "Petición en 
+3 Clics" tienen valor porque reducen las barreras entre la ciudadanía y sus derechos, 
+permitiendo que una demanda individual se convierta en una exigencia colectiva con respaldo 
+verificable, capaz de presionar a las instituciones a rendir cuentas. También entendí que 
+la seguridad y la confianza son tan importantes como la funcionalidad misma, porque sin 
+credibilidad ninguna plataforma logra sostener una acción colectiva real. Aprendí a modelar 
+datos básicos, pensar en automatizaciones que informen sin exponer datos personales, y a 
+minimizar la información sensible que se almacena o comparte. Además, este proceso me hizo 
+más consciente de mi propia responsabilidad al usar internet, entendiendo que cada acción 
+digital puede tener un impacto en otras personas. En conjunto, el curso me mostró que la 
+tecnología cívica es tanto un ejercicio técnico como ético.

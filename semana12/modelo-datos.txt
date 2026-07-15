@@ -1,0 +1,14 @@
+Peticion
+id
+titulo
+descripcion
+categoria
+fecha_creacion
+meta_apoyos
+
+Respaldo
+id
+peticion_id
+nombre_ciudadano
+fecha_respaldo
+verificado
